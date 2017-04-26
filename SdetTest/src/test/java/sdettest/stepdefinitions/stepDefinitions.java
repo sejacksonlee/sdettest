@@ -40,9 +40,17 @@ public class stepDefinitions {
         footballPage.placeBetForAmountAndCondition(bet);
     }
 
-    @Then("^my bet is placed and the returns are correct$")
-    public void Check_bet_is_placed_returns_are_correct() {
-        if (footballPage.checkBetIsPlacedAndReturnsAreCorrect())
+    @Then("^my bet is placed$")
+    public void Check_bet_is_placed() {
+        if (footballPage.checkBetIsPlaced())
+            System.out.println("Test Pass");
+        else
+            System.out.println("Test Fails");
+    }
+
+    @Then("^the returns are correct$")
+    public void Check_returns_are_correct() {
+        if (footballPage.checkReturnsAreCorrect())
             System.out.println("Test Pass");
         else
             System.out.println("Test Fails");
@@ -50,7 +58,10 @@ public class stepDefinitions {
 
     @Then("^the odds are correct$")
     public void Check_odds_are_correct() {
-
+        if (footballPage.checkOddsAreCorrect())
+            System.out.println("Test Pass");
+        else
+            System.out.println("Test Fails");
     }
 
     @After public void cleanUp(){

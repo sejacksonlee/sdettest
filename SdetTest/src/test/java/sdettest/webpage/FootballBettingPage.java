@@ -32,12 +32,19 @@ public class FootballBettingPage {
         driver.findElement(By.xpath("//*[@data-ng-model='bet.stake']/input")).sendKeys(bet);
     }
 
-    public boolean checkBetIsPlacedAndReturnsAreCorrect() {
+    public boolean checkBetIsPlaced() {
 
         String returns = driver.findElement(By.id("estimated-returns_")).getText();
 
         //Have we placed the bet
         return driver.findElement(By.id("mobile-betslip-count")).getText() == "1";
+    }
+
+    public boolean checkReturnsAreCorrect() {
+        //Work out stake here
+    }
+    public boolean checkOddsAreCorrect() {
+        //Get odds from button
     }
 
 }
