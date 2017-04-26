@@ -6,6 +6,8 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.When;
 import cucumber.api.java.en.Then;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+//import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import sdettest.webpage.FootballBettingPage;
 
@@ -14,13 +16,26 @@ public class stepDefinitions {
     WebDriver driver = null;
     FootballBettingPage footballPage = null;
 
-    @Before
-    public void setUp(){
+    @Before("@Firefox")
+    public void setUpFirefox(){
+        System.setProperty("webdriver.gecko.driver", "Resources/geckodriver");
         driver = new FirefoxDriver();
+
         footballPage = new FootballBettingPage(driver);
     }
 
-    @Given("^I have visited \'([^\"]*)\'$")
+
+    @Before("@Chrome")
+    public void setUpChrome(){
+        System.setProperty("webdriver.chrome.driver", "Resources/chromedriver");
+        driver = new ChromeDriver();
+
+        footballPage = new FootballBettingPage(driver);
+    }
+
+
+
+    @Given("^I have first visited \'([^\"]*)\'$")
     public void Visit_Whitelist_page(String url) {
         footballPage.goToPage(url);
     }
