@@ -7,6 +7,7 @@ public class FootballBettingPage {
     WebDriver driver = null;
     String bet = null;
     String odds = null;
+    String teamId = null;
 
     public FootballBettingPage (WebDriver driver){
         this.driver=driver;
@@ -17,11 +18,16 @@ public class FootballBettingPage {
     }
 
     public void selectHomeTeam(String team) {
-        //Set the odds - we'll need them for the assert later
-        odds = driver.findElement(By.xpath("//*[@data-name='" + team + "']")).getText();
+        Webelement teamButton = driver.findElement(By.xpath("//*[@data-name='" + team + "']"));
+
+        //Set the odds (found as text on the button) - we'll need them for the assert later
+        odds = teamButton.getText();
+
+        //Set the teamId (whether this actually is the team id or not but it does help us find the other elements)
+        teamId = teamButton.getAttribute("id").substring(4);
 
         //click the button
-        driver.findElement(By.xpath("//*[@data-name='" + team + "']")).click();
+        teamButton.click();
     }
 
     public void placeBetForAmountAndCondition(String bet) {
@@ -29,22 +35,35 @@ public class FootballBettingPage {
         bet = bet;
 
         //We know the betslip will have appeared now so find the textbox to put the bet value in
-        driver.findElement(By.xpath("//*[@data-ng-model='bet.stake']/input")).sendKeys(bet);
+        driver.findElement(By.Id("stake-input__" + teamId + "L")).sendKeys(bet);
     }
 
     public boolean checkBetIsPlaced() {
-
-        String returns = driver.findElement(By.id("estimated-returns_")).getText();
-
         //Have we placed the bet
         return driver.findElement(By.id("mobile-betslip-count")).getText() == "1";
     }
 
     public boolean checkReturnsAreCorrect() {
-        //Work out stake here
+        //Return whether our textbox with the returns in matches our calculated return field
+        return driver.findElement(By.id("estimated-returns_" + teamId + "L")).getText() == calculateReturn();
     }
     public boolean checkOddsAreCorrect() {
-        //Get odds from button
+        //Betslip odds are exactly what we expect
+        return driver.findElement(By.Id("bet-price_" + teamId + "L")).getText() == odds;
+    }
+
+    private void calculateReturn() {
+        //parse the odds string to get the numeric values
+        String[] odds = odds.split("/");
+        double odds1 = odds[0];
+        double odds2 = odds[1];
+
+        double oddsNumeric = odds[0] / odds[1];
+
+        //return can be represented as: (odds + 1) * bet i.e. 4/9 = (0.44 + 1) * 0.05 = 0.07
+        double betReturn = (oddsNumeric + 1) * (double)bet;
+
+        return betReturn;
     }
 
 }
