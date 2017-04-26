@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14e48003-25b2-4536-b2a9-e25c8149f7b9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test/runTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/runTest.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/maven.iml" afterPath="$PROJECT_DIR$/.idea/maven.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test/runTest.java" afterPath="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test/runTest.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,37 +17,85 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stepDefinitions.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stepDefinitions.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/stepdefinitions/stepDefinitions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="0">
+              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SdetTest/pom.xml">
+      <file leaf-file-name="maven.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/maven.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="195">
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test/runTest.java">
+      <file leaf-file-name="kotlinc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="90">
+              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1493235924000" expanded="true" signature="61654:61671" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61654:61689" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61654:61702" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61654:61717" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61752:64202" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61765:64187" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61819:62114" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61838:62099" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61901:62079" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61941:62045" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="61962:62023" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62164:62491" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62183:62476" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62278:62456" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62318:62422" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62339:62400" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62542:62807" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62561:62792" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62594:62772" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62634:62738" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62655:62716" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62850:63156" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62869:63141" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62943:63121" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="62983:63087" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63004:63065" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63207:63515" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63226:63500" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63302:63480" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63342:63446" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63363:63424" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63550:63856" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63569:63841" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63643:63821" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63683:63787" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63704:63765" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63908:64173" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63927:64158" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="63960:64138" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="64000:64104" ph="..." />
+                <marker date="1493235924000" expanded="true" signature="64021:64082" ph="..." />
               </folding>
             </state>
           </provider>
@@ -55,9 +104,31 @@
       <file leaf-file-name="SdetTest.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SdetTest/SdetTest.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="150">
+              <caret line="10" column="14" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SdetTest/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test/runTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/webpage/FootballBettingPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -75,8 +146,8 @@
       <file leaf-file-name="footballbetting.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/features/footballbetting.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -87,6 +158,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -103,12 +175,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/features/footballbetting.feature" />
-        <option value="$PROJECT_DIR$/SdetTest/pom.xml" />
         <option value="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/features/MyStepdefs.java" />
-        <option value="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/stepdefinitions/stepDefinitions.java" />
         <option value="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/webpage/FootballBettingPage.java" />
         <option value="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/runTest.java" />
         <option value="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test/runTest.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/SdetTest/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/maven.iml" />
+        <option value="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/stepdefinitions/stepDefinitions.java" />
       </list>
     </option>
   </component>
@@ -117,6 +191,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState />
@@ -141,8 +222,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -190,18 +272,6 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdettest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -225,15 +295,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="sdettest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -255,53 +317,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdettest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stepdefinitions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SdetTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SdetTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SdetTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdettest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,16 +337,27 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SdetTest/src" />
+      <recent name="$PROJECT_DIR$/SdetTest" />
       <recent name="$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test" />
     </key>
   </component>
@@ -414,20 +441,20 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+      <module name="maven" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
+        <value defaultName="wholeProject" />
       </option>
       <envs />
       <patterns />
@@ -530,16 +557,16 @@
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -547,7 +574,7 @@
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+      <option name="PROPERTIES_FILE" value="" />
       <envs />
       <properties />
       <listeners />
@@ -560,7 +587,7 @@
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
@@ -606,20 +633,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="710" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.49676898" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.49676898" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.4838449" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.51615506" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2584814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2625202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -636,6 +661,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -656,12 +682,128 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/stepdefinitions/stepDefinitions.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/maven.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493235924000" expanded="true" signature="61654:61671" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61654:61689" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61654:61702" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61654:61717" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61752:64202" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61765:64187" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61819:62114" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61838:62099" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61901:62079" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61941:62045" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61962:62023" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62164:62491" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62183:62476" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62278:62456" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62318:62422" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62339:62400" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62542:62807" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62561:62792" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62594:62772" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62634:62738" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62655:62716" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62850:63156" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62869:63141" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62943:63121" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62983:63087" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63004:63065" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63207:63515" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63226:63500" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63302:63480" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63342:63446" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63363:63424" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63550:63856" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63569:63841" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63643:63821" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63683:63787" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63704:63765" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63908:64173" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63927:64158" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63960:64138" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="64000:64104" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="64021:64082" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SdetTest/SdetTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SdetTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test/runTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/webpage/FootballBettingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/features/footballbetting.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/stepdefinitions/stepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -714,8 +856,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -768,8 +908,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -791,59 +929,209 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/features/MyStepdefs.java" />
-    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/stepdefinitions/stepDefinitions.java">
+    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/webpage/FootballBettingPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SdetTest/SdetTest.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/webpage/FootballBettingPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/features/footballbetting.feature">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="14" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SdetTest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="480">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/test/runTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="150">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493235924000" expanded="true" signature="61654:61671" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61654:61689" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61654:61702" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61654:61717" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61752:64202" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61765:64187" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61819:62114" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61838:62099" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61901:62079" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61941:62045" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="61962:62023" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62164:62491" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62183:62476" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62278:62456" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62318:62422" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62339:62400" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62542:62807" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62561:62792" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62594:62772" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62634:62738" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62655:62716" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62850:63156" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62869:63141" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62943:63121" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="62983:63087" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63004:63065" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63207:63515" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63226:63500" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63302:63480" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63342:63446" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63363:63424" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63550:63856" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63569:63841" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63643:63821" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63683:63787" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63704:63765" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63908:64173" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63927:64158" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="63960:64138" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="64000:64104" ph="..." />
+            <marker date="1493235924000" expanded="true" signature="64021:64082" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/maven.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/features/footballbetting.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SdetTest/src/test/java/sdettest/stepdefinitions/stepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>maven</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
